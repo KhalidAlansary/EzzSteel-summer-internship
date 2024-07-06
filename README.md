@@ -32,6 +32,11 @@ Before running this application, ensure you have the following installed:
 5. Build the solution (Build > Build Solution).
 6. Run the application (Debug > Start Without Debugging).
 
+## Demo
+
+Here's a brief demo of the application in action:
+[Ezz Steel Internship Project - Demo](https://youtu.be/y1s_LqTJYIg)
+
 ## Usage
 
 After launching the application, you can interact with the UI to perform data fetching operations. The application's interface is designed to be intuitive, guiding you through the process of selecting and viewing the data retrieved from the database.
